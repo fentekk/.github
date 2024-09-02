@@ -1,12 +1,25 @@
-## Hi there 👋
+# 🦊 Welcome to Fentekk! 🦊
 
-<!--
+<!-- add fentekk logo here -->
+<!-- [![Fentekk Logo](https://fentekk.com/assets/img/logo.png)](https://fentekk.com) -->
 
-**Here are some ideas to get you started:**
+We're Fentekk, the masters of cross-platform app magic! ✨
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What we do
+
+- Craft amazing iOS apps
+- Conjure Android apps out of thin air
+- Weave web applications like wizards
+- And make them all play nice together! 
+
+## Our mission 🚀
+
+To bring your digital dreams to life across every screen you own.
+
+## Want to join the adventure?
+
+Check out our [website](https://fentekk.com) for more info on our services and projects.
+
+Ready to dive in? Explore our repos and contribute to the next big thing!
+
+### Happy coding! 🎉
